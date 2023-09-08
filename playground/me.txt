@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shivam
-Skills: HTML, CSS, JS, Next.js
-Email: guptashivam@eng.rizvi.edu.in
-{{/user}}
